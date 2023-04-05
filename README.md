@@ -7,3 +7,10 @@
 
 # Version Sql Server
 • In this version, SQL commands were used to integrate C# with the Database
+
+# Version POO
+• In this version, object orientation was used, so we can add several different connections without changing "program.cs".<br>
+
+<strong>Connections Types</strong><br>
+• Pure SQL<br>
+• SQL with Dapper<br>
